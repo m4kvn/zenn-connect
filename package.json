@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/m4kvn/zenn-connect#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.95"
+    "zenn-cli": "^0.1.116"
   }
 }
